@@ -5,7 +5,8 @@
         "prix": 60,
         "categorie": "Optiques",
         "description": "Distance d’éclairage : 100 mètres !",
-        "disponibilite": true
+        "disponibilite": true,
+        "image": "images/ampoule-led.png"
     },
     {
         "id": 2,
@@ -28,7 +29,9 @@
         "nom": "Liquide de frein",
         "prix": 9.60,
         "categorie": "Freinage",
-        "disponibilite": true
+        "disponibilite": true,
+        "image": "./images/liquide-frein.png"
+
     },
     {
         "id": 5,
